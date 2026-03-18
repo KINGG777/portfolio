@@ -5,7 +5,6 @@ Do check it out!
 
 ## Instructions 🛠️
 
-**Important Note regarding GSAP Plugins**: This project currently uses `gsap-trial` plugins (`ScrollSmoother`, `SplitText`), which are premium. Trial plugins work on `localhost`, `codepen`, and typically on Vercel/Netlify testing subdomains (`*.vercel.app`, `*.netlify.app`). If you deploy to a custom domain (e.g., `pramodbehera.com`), they will redirect or break. To deploy to production on a custom domain, you will need to purchase a GSAP Club membership and replace `gsap-trial` with regular `gsap` imports.
 
 ### 1. Push to GitHub
 If you haven't already, initialize git and push to your repository:
