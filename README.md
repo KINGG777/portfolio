@@ -2,7 +2,7 @@
 
 This repository contains the open source version of my porfolio website.
 Do check it out!  
-👉 **[Click Here to Visit](https://portfolio-mu9s.vercel.app/)**
+👉 **https://portfolio-mu9s.vercel.app/**
 
 ## Instructions 🛠️
 
